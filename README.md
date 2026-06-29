@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Riya Joshi
+# Riya Joshi
 
 ### AI Engineer • Full-Stack Developer • Cloud Enthusiast • Research Aspirant
 
