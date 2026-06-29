@@ -34,8 +34,6 @@
 - 🔬 Interested in Computer Vision, OCR, Pattern Recognition & Research
 - ⚛️ Exploring Quantum Computing & Theoretical Physics
 - 💡 Solving real-world problems through intelligent software
-- 🎯 Long-term goal: Contribute to AI research and pursue a PhD at a world-class research institution
-
 ---
 
 # 🚀 Featured Projects
