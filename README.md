@@ -7,15 +7,15 @@
 *"Building intelligent systems today while exploring the science of tomorrow."*
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/riya-joshi-b54031291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/riyajoshi2004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:joshiriya2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -125,28 +125,9 @@ Multiple projects built during the **100 Days of Coding Challenge** using modern
 
 # 🏆 Achievements
 
-- ✅ Google Cloud Arcade Facilitator
-- ✅ Smart India Hackathon Participant
+- ✅ Google Cloud Arcade Facilitator Top Performer
 - ✅ 100 Days of Coding Challenge
 - ✅ Building AI Research Projects
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
