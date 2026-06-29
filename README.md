@@ -25,27 +25,27 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
-- 🎓 Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Web Developer
-- ☁️ Google Cloud Enthusiast
-- 🔬 Interested in Computer Vision, OCR, Pattern Recognition & Research
-- ⚛️ Exploring Quantum Computing & Theoretical Physics
-- 💡 Solving real-world problems through intelligent software
+-  Computer Science Student
+-  Passionate about Artificial Intelligence & Machine Learning
+-  Full Stack Web Developer
+-  Google Cloud Enthusiast
+-  Interested in Computer Vision, OCR, Pattern Recognition & Research
+-  Exploring Quantum Computing & Theoretical Physics
+-  Solving real-world problems through intelligent software
 ---
 
 # 🚀 Featured Projects
 
-## 📄 OCR-Based Intelligent Document Processing System
+##  OCR-Based Intelligent Document Processing System
 AI-powered document extraction and verification system developed for Smart India Hackathon.
 
 **Tech:** Python • OpenCV • OCR • NLP • NLTK • FuzzyWuzzy
 
 ---
 
-## 🤖 AI-Based Algorithm Identification System
+##  AI-Based Algorithm Identification System
 
 Research-oriented system that predicts the algorithm responsible for generating an unknown dataset using machine learning.
 
@@ -53,7 +53,7 @@ Research-oriented system that predicts the algorithm responsible for generating 
 
 ---
 
-## 👩‍💻 AI Women's Safety Face Recognition System
+##  AI Women's Safety Face Recognition System
 
 Developing an intelligent surveillance system capable of recognizing faces from live video streams.
 
@@ -61,7 +61,7 @@ Developing an intelligent surveillance system capable of recognizing faces from 
 
 ---
 
-## 🌐 Full Stack Web Projects
+##  Full Stack Web Projects
 
 Multiple projects built during the **100 Days of Coding Challenge** using modern web technologies.
 
@@ -69,7 +69,7 @@ Multiple projects built during the **100 Days of Coding Challenge** using modern
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -108,26 +108,6 @@ Multiple projects built during the **100 Days of Coding Challenge** using modern
 ### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-
----
-
-# 📚 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Quantum Computing
-- Pattern Recognition
-- Computer Vision
-- Reinforcement Learning
-- Distributed Systems
-
----
-
-# 🏆 Achievements
-
-- ✅ Google Cloud Arcade Facilitator Top Performer
-- ✅ 100 Days of Coding Challenge
-- ✅ Building AI Research Projects
 
 ---
 
