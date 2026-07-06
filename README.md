@@ -117,18 +117,6 @@ MySQL • PostgreSQL
 
 ---
 
-### AI / ML
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
----
-
 ### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
