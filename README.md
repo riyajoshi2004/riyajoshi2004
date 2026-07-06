@@ -27,16 +27,55 @@
 
 #  About Me
 
--  Computer Science Student
--  Passionate about Artificial Intelligence & Machine Learning
--  Full Stack Web Developer
--  Google Cloud Enthusiast
--  Interested in Computer Vision, OCR, Pattern Recognition & Research
--  Exploring Quantum Computing & Theoretical Physics
--  Solving real-world problems through intelligent software
+- Computer Science Student
+- Passionate about Operating Systems, Distributed Systems, and Computer Architecture
+- Java Full Stack Developer (Spring Boot, React, SQL)
+- Building scalable backend systems and DevOps pipelines
+- Exploring Systems Programming, Kernel Development, and Low-Level Software
+- Hands-on with Docker, Kubernetes, Jenkins, and CI/CD Automation
+- Strong interest in Software Engineering and System Design
+- Learning by building real-world projects from first principles
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
+
+## 🚀 MyOS – x86 Operating System from Scratch
+
+Building a minimal x86 Operating System from scratch without relying on an existing kernel or standard library. Implemented core kernel components including memory management, interrupt handling, and device drivers while learning OS internals from first principles.
+
+**Features:**
+- Custom i686-elf GCC + Binutils cross-compiler
+- GRUB Multiboot bootloader
+- VGA text terminal with custom `kprintf`
+- Physical Memory Manager (PMM)
+- Virtual Memory Paging
+- Dynamic Heap Allocator (`kmalloc`/`kfree`)
+- GDT & IDT
+- CPU exception handling
+- PIC remapping
+- PS/2 keyboard driver
+
+**Next:** PIT timer • Multitasking • Filesystem • User-mode processes
+
+**Tech:** C • x86 Assembly • GCC • NASM • GRUB • QEMU • Makefile
+
+---
+
+## ⚙️ End-to-End CI/CD Pipeline for Spring Boot
+
+Built a fully automated CI/CD pipeline for a Spring Boot application that automatically builds, tests, containerizes, and deploys the application on every `git push`. The entire pipeline runs locally using Docker Desktop and Minikube, providing hands-on experience with the complete DevOps workflow before moving to the cloud.
+
+**Features:**
+- GitHub webhook for automatic pipeline triggering
+- Jenkins pipeline orchestration
+- Maven build and automated unit testing
+- Docker image build and versioning
+- Kubernetes deployment with rolling updates
+- Local Kubernetes cluster using Minikube
+
+**Tech:** Java • Spring Boot • Jenkins • Maven • Docker • Kubernetes • Minikube • GitHub Actions • Git • Linux • Bash
+
+---
 
 ##  OCR-Based Intelligent Document Processing System
 AI-powered document extraction and verification system developed for Smart India Hackathon.
@@ -45,51 +84,36 @@ AI-powered document extraction and verification system developed for Smart India
 
 ---
 
-##  AI-Based Algorithm Identification System
-
-Research-oriented system that predicts the algorithm responsible for generating an unknown dataset using machine learning.
-
-**Tech:** Python • Machine Learning • NumPy • Pandas • Scikit-learn
-
----
-
-##  AI Women's Safety Face Recognition System
-
-Developing an intelligent surveillance system capable of recognizing faces from live video streams.
-
-**Tech:** Python • OpenCV • SQL • Face Recognition • Computer Vision
-
----
-
-##  Full Stack Web Projects
-
-Multiple projects built during the **100 Days of Coding Challenge** using modern web technologies.
-
-**Tech:** HTML • CSS • JavaScript • React • Node.js • Express
-
----
 
 #  Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+C • C++ • Java • Python • JavaScript • SQL • x86 Assembly
 
 ---
 
-### Web Development
+### Backend
+Spring Boot • Spring MVC • REST APIs • Node.js • Express
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+---
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+### Frontend
+React • HTML • CSS • JavaScript
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Systems Programming
+Operating Systems • Linux • Kernel Development • Memory Management • Computer Architecture
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+---
+
+### DevOps & Cloud
+Docker • Kubernetes • Jenkins • GitHub Actions • Git • Minikube • Maven • Linux • Bash • Google Cloud
+
+---
+
+### Databases
+MySQL • PostgreSQL
 
 ---
 
@@ -125,17 +149,4 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
 
-<!--
-**riyajoshi2004/riyajoshi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
